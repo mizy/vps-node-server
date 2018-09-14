@@ -1,0 +1,1 @@
+tar -czvf build.tar.gz ./app ./config ./package.json
